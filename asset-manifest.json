@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shinup/moster-inc/static/css/main.2239c45a.chunk.css",
+    "main.js": "/shinup/moster-inc/static/js/main.a74cdca9.chunk.js",
+    "main.js.map": "/shinup/moster-inc/static/js/main.a74cdca9.chunk.js.map",
+    "runtime-main.js": "/shinup/moster-inc/static/js/runtime-main.5c97aba3.js",
+    "runtime-main.js.map": "/shinup/moster-inc/static/js/runtime-main.5c97aba3.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/shinup/moster-inc/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/shinup/moster-inc/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/shinup/moster-inc/index.html",
+    "precache-manifest.67ed33bf041a4864fb16b995ba6ceb57.js": "/shinup/moster-inc/precache-manifest.67ed33bf041a4864fb16b995ba6ceb57.js",
+    "service-worker.js": "/shinup/moster-inc/service-worker.js",
+    "static/css/main.2239c45a.chunk.css.map": "/shinup/moster-inc/static/css/main.2239c45a.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/shinup/moster-inc/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c97aba3.js",
+    "static/js/2.0d232ef2.chunk.js",
+    "static/css/main.2239c45a.chunk.css",
+    "static/js/main.a74cdca9.chunk.js"
+  ]
+}
